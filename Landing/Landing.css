@@ -338,3 +338,17 @@
     display: block;
     color: #343a40;
   }
+
+
+.nav-item i {
+  color: #737373;
+  background-color: transparent !important;
+  font-size: 80px;
+  padding: 50px;
+}
+
+
+
+.nav-item i:hover {
+  color: black;
+}
